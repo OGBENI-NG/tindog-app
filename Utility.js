@@ -37,7 +37,6 @@ function formContainer() {
         <input type="password" name="password"
             aria-label="password"
             placeholder="Enter your password"
-            required
         >
         <input type="text" name="bio"
             aria-label="biograpy"

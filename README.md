@@ -1,0 +1,2 @@
+# tindog-app
+solo project
